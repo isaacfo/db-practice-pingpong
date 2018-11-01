@@ -1,0 +1,1 @@
+-- should only contain create table statments
